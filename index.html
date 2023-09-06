@@ -3,13 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adopta a una mascota</title>
+    <title>Adopta a una mascota | MiMascota.com </title>
+    <!-- linkear bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!-- linkear css -->
+    <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
-    <h1>El sitio para encontrar a tu mascota ideal</h1><br>
-    <p>Encuentra buscando por Nombre, Raza, Edad, Tamaño o Lugar. Da Click para comenzar la búsqueda</p>
-    <button onclick="BuscarMascota()">Activar Busqueda</button>
+    <section class="py-5 bg-section-1">
+        <div class="container py-5">
+            <div class="row">
+                <div class="col text-center">
+                    <h1 class="py-2 mb-5">El sitio para encontrar a tu mascota ideal</h1><br>
+                    <div class="bg-original py-5 px-5">
+                        <p>Encuentra buscando por Nombre, Raza, Edad, Tamaño o Lugar. Da Click para comenzar la búsqueda</p>
+                        <button class="btn btn-primary mt-3 px-5 py-2" onclick="BuscarMascota()">Activar Búsqueda</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="py-5 bg-section-2">
+        <div class="container py-5">
+            <div class="row">
+                <div class="col text-center">
+                    <p class="py-2 mb-4">En nuestros refugios tenemos gatitos y perritos desde 1 a 6 años de edad y algunas razas como French, Labrador, Poodle, Pitbull, Siamese, Burmese, Bengalí, etc.
+                    </p>
+                    <p class="py-2 mb-5">Y están ubicados en ciudades como CDMX, Guadalajara, Puebla, Querétaro y Monterrey. Una vez que encuentres a tu mascota ideal contactanos a: hola@mimascota.com
+                    </p><br>
+    </section>
+    
 
     <script src="./js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 </html>

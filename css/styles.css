@@ -1,0 +1,41 @@
+
+
+.bg-section-1{
+    background: url(https://cdn.discordapp.com/attachments/1087838775679406088/1148903776741232701/guzzkor_Digital_vector_illustration_of_some_happy_puppy_and_kit_813314fc-0c9b-4392-8ce2-ab5a810fcf79.png);
+    object-fit: cover;
+    min-height: 80vh;
+}
+
+.bg-section-1 h1 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+.bg-original {
+    background: #ffad64;
+    border-radius: 1rem;
+    margin-top: 14rem;
+}
+
+.bg-original p {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #fff;
+}
+
+.bg-original button {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #fff;
+}
+
+.bg-section-2{
+    background-color: #ffc899;
+}
+
+.bg-section-2 p{
+    color: #1d0839;
+    font-weight: 600;
+    font-size: 1.3rem;
+}
