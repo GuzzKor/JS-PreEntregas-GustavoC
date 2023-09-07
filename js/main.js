@@ -51,10 +51,7 @@ const perritos = [
                         "Edad: " + perrito.edad + "\n" +
                         "Tamaño: " + perrito.tamanio + "\n" +
                         "Lugar: " + perrito.lugar);
-                    }   else {
-                            alert("No se encontraron coincidencias en nuestra base de datos, intenta de nuevo");
-                            return;
-                        }
+                    }   
                 }
                 break;
                 
@@ -68,10 +65,7 @@ const perritos = [
                         "Edad: " + perrito.edad + "\n" +
                         "Tamaño: " + perrito.tamanio + "\n" +
                         "Lugar: " + perrito.lugar);
-                    }   else {
-                            alert("No se encontraron coincidencias en nuestra base de datos, intenta de nuevo");
-                            return;
-                        }
+                    }   
                 }
                 break;
 
@@ -85,10 +79,7 @@ const perritos = [
                         "Edad: " + perrito.edad + "\n" +
                         "Tamaño: " + perrito.tamanio + "\n" +
                         "Lugar: " + perrito.lugar);
-                    }   else {
-                        alert("No se encontraron coincidencias en nuestra base de datos, intenta de nuevo");
-                        return;
-                    }
+                    }   
                 }
                 break;
                 
@@ -102,10 +93,7 @@ const perritos = [
                         "Edad: " + perrito.edad + "\n" +
                         "Tamaño: " + perrito.tamanio + "\n" +
                         "Lugar: " + perrito.lugar);
-                    }   else {
-                        alert("No se encontraron coincidencias en nuestra base de datos, intenta de nuevo");
-                        return;
-                    }
+                    }   
                 }
                 break;
 
@@ -119,10 +107,7 @@ const perritos = [
                         "Edad: " + perrito.edad + "\n" +
                         "Tamaño: " + perrito.tamanio + "\n" +
                         "Lugar: " + perrito.lugar);
-                    }   else {
-                        alert("No se encontraron coincidencias en nuestra base de datos, intenta de nuevo");
-                        return;
-                    }
+                    }   
                 }
                 break;
             
@@ -147,10 +132,7 @@ const perritos = [
                         "Edad: " + gatito.edad + "\n" +
                         "Tamaño: " + gatito.tamanio + "\n" +
                         "Lugar: " + gatito.lugar);
-                    }   else {
-                        alert("No se encontraron coincidencias en nuestra base de datos, intenta de nuevo");
-                        return;
-                    }
+                    }   
                 }
                 break;
 
@@ -164,10 +146,7 @@ const perritos = [
                         "Edad: " + gatito.edad + "\n" +
                         "Tamaño: " + gatito.tamanio + "\n" +
                         "Lugar: " + gatito.lugar);
-                    }   else {
-                        alert("No se encontraron coincidencias en nuestra base de datos, intenta de nuevo");
-                        return;
-                    }
+                    }   
                 }
                 break;
 
@@ -181,10 +160,7 @@ const perritos = [
                         "Edad: " + gatito.edad + "\n" +
                         "Tamaño: " + gatito.tamanio + "\n" +
                         "Lugar: " + gatito.lugar);
-                    }   else {
-                        alert("No se encontraron coincidencias en nuestra base de datos, intenta de nuevo");
-                        return;
-                    }
+                    }   
                 }
                 break;
 
@@ -198,10 +174,7 @@ const perritos = [
                         "Edad: " + gatito.edad + "\n" +
                         "Tamaño: " + gatito.tamanio + "\n" +
                         "Lugar: " + gatito.lugar);
-                    }   else {
-                        alert("No se encontraron coincidencias en nuestra base de datos, intenta de nuevo");
-                        return;
-                    }
+                    }   
                 }
                 break;
 
@@ -215,10 +188,7 @@ const perritos = [
                         "Edad: " + gatito.edad + "\n" +
                         "Tamaño: " + gatito.tamanio + "\n" +
                         "Lugar: " + gatito.lugar);
-                    }   else {
-                        alert("No se encontraron coincidencias en nuestra base de datos, intenta de nuevo");
-                        return;
-                    }
+                    }   
                 }
                 break;
             
